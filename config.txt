@@ -1,0 +1,7 @@
+apiKey: "AIzaSyDNSQ8l9hADRLJCRQ1YlSf4rTkZ_NwOZ08",
+    authDomain: "fir-chat-8979b.firebaseapp.com",
+    projectId: "fir-chat-8979b",
+    storageBucket: "fir-chat-8979b.appspot.com",
+    messagingSenderId: "397814128526",
+    appId: "1:397814128526:web:7611b207d06337d2638edf",
+    measurementId: "G-L81RTDYFXW"
